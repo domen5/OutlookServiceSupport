@@ -12,5 +12,5 @@ This tool originated from a specific project where I aimed to reduce the number 
 
 ## Technologies Used
 *   **Go:** The application is written in Go
-*   **Walk:** As the target audience are Windows-only clients, this project utilizes [Walk](https://github.com/lxn/walk), a Windows-specific native GUI library for Go. Walk provides a native Windows look and feel, ensuring a familiar user experience.
+*   **Walk:** As the target audience are Windows-only clients, this project utilizes [Walk](https://github.com/tailscale/walk), a Windows-specific native GUI library for Go. Walk provides a native Windows look and feel, ensuring a familiar user experience.
 *   **go-ole:** [go-ole](https://github.com/go-ole/go-ole) is used to interact with the Component Object Model (COM) on Windows. This allows the application to control the Outlook client programmatically.
